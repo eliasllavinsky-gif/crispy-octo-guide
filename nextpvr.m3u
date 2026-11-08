@@ -1,0 +1,1631 @@
+#EXTM3U url-tvg="http://192.168.12.237:8866/service?method=channel.xmltv.x"
+
+#EXTINF:0 tvg-id="nextpvr-7205" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7205" tvg-chno="2.1", KWGN-DT
+http://192.168.12.237:8866/live?channel=2.1
+
+#EXTINF:0 tvg-id="nextpvr-7156" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7156" tvg-chno="2.2", CHARGE
+http://192.168.12.237:8866/live?channel=2.2
+
+#EXTINF:0 tvg-id="nextpvr-7157" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7157" tvg-chno="2.3", CometTV
+http://192.168.12.237:8866/live?channel=2.3
+
+#EXTINF:0 tvg-id="nextpvr-7181" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7181" tvg-chno="2.4", HSN2
+http://192.168.12.237:8866/live?channel=2.4
+
+#EXTINF:0 tvg-id="nextpvr-7211" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7211" tvg-chno="3.1", Local3
+http://192.168.12.237:8866/live?channel=3.1
+
+#EXTINF:0 tvg-id="nextpvr-7177" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7177" tvg-chno="3.2", Grit
+http://192.168.12.237:8866/live?channel=3.2
+
+#EXTINF:0 tvg-id="nextpvr-7229" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7229" tvg-chno="3.3", QVC2
+http://192.168.12.237:8866/live?channel=3.3
+
+#EXTINF:0 tvg-id="nextpvr-7228" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7228" tvg-chno="3.3", QVC2
+http://192.168.12.237:8866/live?channel=3.3
+
+#EXTINF:0 tvg-id="nextpvr-7180" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7180" tvg-chno="3.5", HSN
+http://192.168.12.237:8866/live?channel=3.5
+
+#EXTINF:0 tvg-id="nextpvr-7194" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7194" tvg-chno="4.1", KCNC-TV
+http://192.168.12.237:8866/live?channel=4.1
+
+#EXTINF:0 tvg-id="nextpvr-7237" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7237" tvg-chno="4.2", StartTV
+http://192.168.12.237:8866/live?channel=4.2
+
+#EXTINF:0 tvg-id="nextpvr-7167" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7167" tvg-chno="4.3", Dabl
+http://192.168.12.237:8866/live?channel=4.3
+
+#EXTINF:0 tvg-id="nextpvr-7213" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7213" tvg-chno="4.4", MeTV
+http://192.168.12.237:8866/live?channel=4.4
+
+#EXTINF:0 tvg-id="nextpvr-7155" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7155" tvg-chno="4.5", Catchy
+http://192.168.12.237:8866/live?channel=4.5
+
+#EXTINF:0 tvg-id="nextpvr-7238" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7238" tvg-chno="4.6", Story
+http://192.168.12.237:8866/live?channel=4.6
+
+#EXTINF:0 tvg-id="nextpvr-7201" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7201" tvg-chno="6.1", KRMADT1
+http://192.168.12.237:8866/live?channel=6.1
+
+#EXTINF:0 tvg-id="nextpvr-7224" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7224" tvg-chno="6.2", PBSKIDS
+http://192.168.12.237:8866/live?channel=6.2
+
+#EXTINF:0 tvg-id="nextpvr-7163" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7163" tvg-chno="6.3", Create
+http://192.168.12.237:8866/live?channel=6.3
+
+#EXTINF:0 tvg-id="nextpvr-7243" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7243" tvg-chno="6.4", World
+http://192.168.12.237:8866/live?channel=6.4
+
+#EXTINF:0 tvg-id="nextpvr-7199" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7199" tvg-chno="7.1", KMGH
+http://192.168.12.237:8866/live?channel=7.1
+
+#EXTINF:0 tvg-id="nextpvr-7198" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7198" tvg-chno="7.1", KMGH
+http://192.168.12.237:8866/live?channel=7.1
+
+#EXTINF:0 tvg-id="nextpvr-7186" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7186" tvg-chno="7.2", IonMys
+http://192.168.12.237:8866/live?channel=7.2
+
+#EXTINF:0 tvg-id="nextpvr-7185" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7185" tvg-chno="7.2", IonMys
+http://192.168.12.237:8866/live?channel=7.2
+
+#EXTINF:0 tvg-id="nextpvr-7208" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7208" tvg-chno="7.3", Laff
+http://192.168.12.237:8866/live?channel=7.3
+
+#EXTINF:0 tvg-id="nextpvr-7206" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7206" tvg-chno="7.3", Laff
+http://192.168.12.237:8866/live?channel=7.3
+
+#EXTINF:0 tvg-id="nextpvr-7233" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7233" tvg-chno="7.4", ShopLC
+http://192.168.12.237:8866/live?channel=7.4
+
+#EXTINF:0 tvg-id="nextpvr-7232" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7232" tvg-chno="7.4", Shop
+http://192.168.12.237:8866/live?channel=7.4
+
+#EXTINF:0 tvg-id="nextpvr-7203" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7203" tvg-chno="9.1", KUSA-HD
+http://192.168.12.237:8866/live?channel=9.1
+
+#EXTINF:0 tvg-id="nextpvr-7160" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7160" tvg-chno="9.2", Cozi
+http://192.168.12.237:8866/live?channel=9.2
+
+#EXTINF:0 tvg-id="nextpvr-7164" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7164" tvg-chno="9.3", Crime
+http://192.168.12.237:8866/live?channel=9.3
+
+#EXTINF:0 tvg-id="nextpvr-7204" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7204" tvg-chno="9.4", KUSA-HD
+http://192.168.12.237:8866/live?channel=9.4
+
+#EXTINF:0 tvg-id="nextpvr-7226" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7226" tvg-chno="9.5", Quest
+http://192.168.12.237:8866/live?channel=9.5
+
+#EXTINF:0 tvg-id="nextpvr-7219" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7219" tvg-chno="9.6", NEST
+http://192.168.12.237:8866/live?channel=9.6
+
+#EXTINF:0 tvg-id="nextpvr-7239" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7239" tvg-chno="9.7", TBD
+http://192.168.12.237:8866/live?channel=9.7
+
+#EXTINF:0 tvg-id="nextpvr-7207" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7207" tvg-chno="10.1", Laff
+http://192.168.12.237:8866/live?channel=10.1
+
+#EXTINF:0 tvg-id="nextpvr-7183" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7183" tvg-chno="10.2", Ion
+http://192.168.12.237:8866/live?channel=10.2
+
+#EXTINF:0 tvg-id="nextpvr-7227" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7227" tvg-chno="10.3", QVC
+http://192.168.12.237:8866/live?channel=10.3
+
+#EXTINF:0 tvg-id="nextpvr-7190" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7190" tvg-chno="12.1", KBDI-DT
+http://192.168.12.237:8866/live?channel=12.1
+
+#EXTINF:0 tvg-id="nextpvr-7192" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7192" tvg-chno="12.2", KBDI+
+http://192.168.12.237:8866/live?channel=12.2
+
+#EXTINF:0 tvg-id="nextpvr-7191" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7191" tvg-chno="12.3", KBDI-DW
+http://192.168.12.237:8866/live?channel=12.3
+
+#EXTINF:0 tvg-id="nextpvr-7220" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7220" tvg-chno="12.4", NHK
+http://192.168.12.237:8866/live?channel=12.4
+
+#EXTINF:0 tvg-id="nextpvr-7193" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7193" tvg-chno="14.1", KCEC-DT
+http://192.168.12.237:8866/live?channel=14.1
+
+#EXTINF:0 tvg-id="nextpvr-7217" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7217" tvg-chno="14.2", MVSGLD
+http://192.168.12.237:8866/live?channel=14.2
+
+#EXTINF:0 tvg-id="nextpvr-7176" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7176" tvg-chno="14.3", GREAT
+http://192.168.12.237:8866/live?channel=14.3
+
+#EXTINF:0 tvg-id="nextpvr-7152" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7152" tvg-chno="14.4", BT2
+http://192.168.12.237:8866/live?channel=14.4
+
+#EXTINF:0 tvg-id="nextpvr-7235" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7235" tvg-chno="14.5", ShopLC
+http://192.168.12.237:8866/live?channel=14.5
+
+#EXTINF:0 tvg-id="nextpvr-7174" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7174" tvg-chno="16.1", GNTV
+http://192.168.12.237:8866/live?channel=16.1
+
+#EXTINF:0 tvg-id="nextpvr-7175" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7175" tvg-chno="16.2", GNTVLat
+http://192.168.12.237:8866/live?channel=16.2
+
+#EXTINF:0 tvg-id="nextpvr-7231" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7231" tvg-chno="16.3", SBN
+http://192.168.12.237:8866/live?channel=16.3
+
+#EXTINF:0 tvg-id="nextpvr-7209" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7209" tvg-chno="16.4", Lalnva
+http://192.168.12.237:8866/live?channel=16.4
+
+#EXTINF:0 tvg-id="nextpvr-7202" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7202" tvg-chno="20.1", KTVD-HD
+http://192.168.12.237:8866/live?channel=20.1
+
+#EXTINF:0 tvg-id="nextpvr-7178" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7178" tvg-chno="20.2", H & I
+http://192.168.12.237:8866/live?channel=20.2
+
+#EXTINF:0 tvg-id="nextpvr-7234" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7234" tvg-chno="20.3", ShopLC
+http://192.168.12.237:8866/live?channel=20.3
+
+#EXTINF:0 tvg-id="nextpvr-7222" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7222" tvg-chno="20.4", OUTLAW
+http://192.168.12.237:8866/live?channel=20.4
+
+#EXTINF:0 tvg-id="nextpvr-7215" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7215" tvg-chno="24.1", MTN
+http://192.168.12.237:8866/live?channel=24.1
+
+#EXTINF:0 tvg-id="nextpvr-7171" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7171" tvg-chno="24.2", FunRds
+http://192.168.12.237:8866/live?channel=24.2
+
+#EXTINF:0 tvg-id="nextpvr-7195" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7195" tvg-chno="25.1", KDEN-DT
+http://192.168.12.237:8866/live?channel=25.1
+
+#EXTINF:0 tvg-id="nextpvr-7170" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7170" tvg-chno="25.2", Exitos
+http://192.168.12.237:8866/live?channel=25.2
+
+#EXTINF:0 tvg-id="nextpvr-7161" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7161" tvg-chno="25.3", COZI
+http://192.168.12.237:8866/live?channel=25.3
+
+#EXTINF:0 tvg-id="nextpvr-7165" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7165" tvg-chno="25.4", CRIMES
+http://192.168.12.237:8866/live?channel=25.4
+
+#EXTINF:0 tvg-id="nextpvr-7223" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7223" tvg-chno="25.5", Oxygen
+http://192.168.12.237:8866/live?channel=25.5
+
+#EXTINF:0 tvg-id="nextpvr-7162" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7162" tvg-chno="25.6", COZI 2
+http://192.168.12.237:8866/live?channel=25.6
+
+#EXTINF:0 tvg-id="nextpvr-7214" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7214" tvg-chno="26.1", Movies
+http://192.168.12.237:8866/live?channel=26.1
+
+#EXTINF:0 tvg-id="nextpvr-7172" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7172" tvg-chno="26.2", FunRds
+http://192.168.12.237:8866/live?channel=26.2
+
+#EXTINF:0 tvg-id="nextpvr-7148" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7148" tvg-chno="26.3", ACE
+http://192.168.12.237:8866/live?channel=26.3
+
+#EXTINF:0 tvg-id="nextpvr-7188" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7188" tvg-chno="26.4", JTV
+http://192.168.12.237:8866/live?channel=26.4
+
+#EXTINF:0 tvg-id="nextpvr-7216" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7216" tvg-chno="28.1", MTNTV
+http://192.168.12.237:8866/live?channel=28.1
+
+#EXTINF:0 tvg-id="nextpvr-7236" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7236" tvg-chno="28.2", SMCTV
+http://192.168.12.237:8866/live?channel=28.2
+
+#EXTINF:0 tvg-id="nextpvr-7179" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7179" tvg-chno="28.3", HNS2
+http://192.168.12.237:8866/live?channel=28.3
+
+#EXTINF:0 tvg-id="nextpvr-7196" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7196" tvg-chno="31.1", KDVR-DT
+http://192.168.12.237:8866/live?channel=31.1
+
+#EXTINF:0 tvg-id="nextpvr-7149" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7149" tvg-chno="31.2", Antenna
+http://192.168.12.237:8866/live?channel=31.2
+
+#EXTINF:0 tvg-id="nextpvr-7230" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7230" tvg-chno="31.3", ROAR-TV
+http://192.168.12.237:8866/live?channel=31.3
+
+#EXTINF:0 tvg-id="nextpvr-7240" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7240" tvg-chno="38.1", TBN HD
+http://192.168.12.237:8866/live?channel=38.1
+
+#EXTINF:0 tvg-id="nextpvr-7241" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7241" tvg-chno="38.2", TVDEALS
+http://192.168.12.237:8866/live?channel=38.2
+
+#EXTINF:0 tvg-id="nextpvr-7182" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7182" tvg-chno="38.3", Inspire
+http://192.168.12.237:8866/live?channel=38.3
+
+#EXTINF:0 tvg-id="nextpvr-7221" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7221" tvg-chno="38.4", ONTV4U
+http://192.168.12.237:8866/live?channel=38.4
+
+#EXTINF:0 tvg-id="nextpvr-7225" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7225" tvg-chno="38.5", POSITV
+http://192.168.12.237:8866/live?channel=38.5
+
+#EXTINF:0 tvg-id="nextpvr-7200" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7200" tvg-chno="39.1", KQDK-HD
+http://192.168.12.237:8866/live?channel=39.1
+
+#EXTINF:0 tvg-id="nextpvr-7166" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7166" tvg-chno="39.3", CTNi
+http://192.168.12.237:8866/live?channel=39.3
+
+#EXTINF:0 tvg-id="nextpvr-7218" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7218" tvg-chno="39.4", N2
+http://192.168.12.237:8866/live?channel=39.4
+
+#EXTINF:0 tvg-id="nextpvr-7150" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7150" tvg-chno="39.5", BIZ-TV
+http://192.168.12.237:8866/live?channel=39.5
+
+#EXTINF:0 tvg-id="nextpvr-7242" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7242" tvg-chno="50.1", UniMas
+http://192.168.12.237:8866/live?channel=50.1
+
+#EXTINF:0 tvg-id="nextpvr-7210" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7210" tvg-chno="50.2", LATV
+http://192.168.12.237:8866/live?channel=50.2
+
+#EXTINF:0 tvg-id="nextpvr-7197" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7197" tvg-chno="53.1", KETD-HD
+http://192.168.12.237:8866/live?channel=53.1
+
+#EXTINF:0 tvg-id="nextpvr-7169" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7169" tvg-chno="53.2", E-NEWS
+http://192.168.12.237:8866/live?channel=53.2
+
+#EXTINF:0 tvg-id="nextpvr-7158" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7158" tvg-chno="53.3", Confess
+http://192.168.12.237:8866/live?channel=53.3
+
+#EXTINF:0 tvg-id="nextpvr-7189" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7189" tvg-chno="53.4", JTV
+http://192.168.12.237:8866/live?channel=53.4
+
+#EXTINF:0 tvg-id="nextpvr-7154" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7154" tvg-chno="53.5", BUZZR
+http://192.168.12.237:8866/live?channel=53.5
+
+#EXTINF:0 tvg-id="nextpvr-7184" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7184" tvg-chno="59.1", ION
+http://192.168.12.237:8866/live?channel=59.1
+
+#EXTINF:0 tvg-id="nextpvr-7151" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7151" tvg-chno="59.2", Bounce
+http://192.168.12.237:8866/live?channel=59.2
+
+#EXTINF:0 tvg-id="nextpvr-7159" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7159" tvg-chno="59.3", CourtTV
+http://192.168.12.237:8866/live?channel=59.3
+
+#EXTINF:0 tvg-id="nextpvr-7187" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7187" tvg-chno="59.4", IONPlus
+http://192.168.12.237:8866/live?channel=59.4
+
+#EXTINF:0 tvg-id="nextpvr-7153" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7153" tvg-chno="59.5", BUSTED
+http://192.168.12.237:8866/live?channel=59.5
+
+#EXTINF:0 tvg-id="nextpvr-7168" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7168" tvg-chno="59.6", Defy
+http://192.168.12.237:8866/live?channel=59.6
+
+#EXTINF:0 tvg-id="nextpvr-7173" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7173" tvg-chno="59.7", GameSho
+http://192.168.12.237:8866/live?channel=59.7
+
+#EXTINF:0 tvg-id="nextpvr-7212" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7212" tvg-chno="59.8", MeTOONS
+http://192.168.12.237:8866/live?channel=59.8
+
+#EXTINF:0 tvg-id="nextpvr-7450" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7450" tvg-chno="60", Local Now NYC
+http://192.168.12.237:8866/live?channel=60
+
+#EXTINF:0 tvg-id="nextpvr-7480" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7480" tvg-chno="61", NBC News NOW
+http://192.168.12.237:8866/live?channel=61
+
+#EXTINF:0 tvg-id="nextpvr-7270" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7270" tvg-chno="62", CBS News 24/7
+http://192.168.12.237:8866/live?channel=62
+
+#EXTINF:0 tvg-id="nextpvr-7448" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7448" tvg-chno="63", LiveNOW from FOX
+http://192.168.12.237:8866/live?channel=63
+
+#EXTINF:0 tvg-id="nextpvr-7252" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7252" tvg-chno="64", America's Funniest Home Videos
+http://192.168.12.237:8866/live?channel=64
+
+#EXTINF:0 tvg-id="nextpvr-7335" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7335" tvg-chno="65", Homeful
+http://192.168.12.237:8866/live?channel=65
+
+#EXTINF:0 tvg-id="nextpvr-7512" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7512" tvg-chno="66", Shout! Movies
+http://192.168.12.237:8866/live?channel=66
+
+#EXTINF:0 tvg-id="nextpvr-7456" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7456" tvg-chno="67", Locked On Sports Today
+http://192.168.12.237:8866/live?channel=67
+
+#EXTINF:0 tvg-id="nextpvr-7523" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7523" tvg-chno="68", Tastemade Travel
+http://192.168.12.237:8866/live?channel=68
+
+#EXTINF:0 tvg-id="nextpvr-7536" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7536" tvg-chno="69", The Dick Van Dyke Show
+http://192.168.12.237:8866/live?channel=69
+
+#EXTINF:0 tvg-id="nextpvr-7339" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7339" tvg-chno="70", Hot Ones
+http://192.168.12.237:8866/live?channel=70
+
+#EXTINF:0 tvg-id="nextpvr-7347" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7347" tvg-chno="71", ION Television
+http://192.168.12.237:8866/live?channel=71
+
+#EXTINF:0 tvg-id="nextpvr-7267" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7267" tvg-chno="72", Bounce XL
+http://192.168.12.237:8866/live?channel=72
+
+#EXTINF:0 tvg-id="nextpvr-7481" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7481" tvg-chno="73", NBC News NOW
+http://192.168.12.237:8866/live?channel=73
+
+#EXTINF:0 tvg-id="nextpvr-7271" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7271" tvg-chno="74", CBS News 24/7
+http://192.168.12.237:8866/live?channel=74
+
+#EXTINF:0 tvg-id="nextpvr-7449" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7449" tvg-chno="75", LiveNOW from FOX
+http://192.168.12.237:8866/live?channel=75
+
+#EXTINF:0 tvg-id="nextpvr-7546" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7546" tvg-chno="76", TODAY All Day
+http://192.168.12.237:8866/live?channel=76
+
+#EXTINF:0 tvg-id="nextpvr-7247" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7247" tvg-chno="77", 60 Minutes
+http://192.168.12.237:8866/live?channel=77
+
+#EXTINF:0 tvg-id="nextpvr-7510" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7510" tvg-chno="78", Scripps News
+http://192.168.12.237:8866/live?channel=78
+
+#EXTINF:0 tvg-id="nextpvr-7288" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7288" tvg-chno="79", CNN Headlines
+http://192.168.12.237:8866/live?channel=79
+
+#EXTINF:0 tvg-id="nextpvr-7322" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7322" tvg-chno="80", FOX Weather
+http://192.168.12.237:8866/live?channel=80
+
+#EXTINF:0 tvg-id="nextpvr-7265" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7265" tvg-chno="81", Bloomberg TV+
+http://192.168.12.237:8866/live?channel=81
+
+#EXTINF:0 tvg-id="nextpvr-7264" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7264" tvg-chno="82", Bloomberg Originals
+http://192.168.12.237:8866/live?channel=82
+
+#EXTINF:0 tvg-id="nextpvr-7690" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7690" tvg-chno="83", Yahoo! Finance
+http://192.168.12.237:8866/live?channel=83
+
+#EXTINF:0 tvg-id="nextpvr-7485" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7485" tvg-chno="84", NEWSMAX2
+http://192.168.12.237:8866/live?channel=84
+
+#EXTINF:0 tvg-id="nextpvr-7507" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7507" tvg-chno="85", Salem News
+http://192.168.12.237:8866/live?channel=85
+
+#EXTINF:0 tvg-id="nextpvr-7538" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7538" tvg-chno="86", The First
+http://192.168.12.237:8866/live?channel=86
+
+#EXTINF:0 tvg-id="nextpvr-7504" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7504" tvg-chno="87", Reuters 60
+http://192.168.12.237:8866/live?channel=87
+
+#EXTINF:0 tvg-id="nextpvr-7289" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7289" tvg-chno="88", CNN Originals
+http://192.168.12.237:8866/live?channel=88
+
+#EXTINF:0 tvg-id="nextpvr-7313" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7313" tvg-chno="89", Euronews English
+http://192.168.12.237:8866/live?channel=89
+
+#EXTINF:0 tvg-id="nextpvr-7506" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7506" tvg-chno="90", ROI TV
+http://192.168.12.237:8866/live?channel=90
+
+#EXTINF:0 tvg-id="nextpvr-7517" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7517" tvg-chno="91", Spend Smart
+http://192.168.12.237:8866/live?channel=91
+
+#EXTINF:0 tvg-id="nextpvr-7597" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7597" tvg-chno="92", WeatherSpy
+http://192.168.12.237:8866/live?channel=92
+
+#EXTINF:0 tvg-id="nextpvr-7303" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7303" tvg-chno="93", Dateline 24/7
+http://192.168.12.237:8866/live?channel=93
+
+#EXTINF:0 tvg-id="nextpvr-7254" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7254" tvg-chno="94", American Crimes
+http://192.168.12.237:8866/live?channel=94
+
+#EXTINF:0 tvg-id="nextpvr-7246" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7246" tvg-chno="95", 48 Hours
+http://192.168.12.237:8866/live?channel=95
+
+#EXTINF:0 tvg-id="nextpvr-7295" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7295" tvg-chno="96", Court TV
+http://192.168.12.237:8866/live?channel=96
+
+#EXTINF:0 tvg-id="nextpvr-7296" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7296" tvg-chno="97", Court TV Legendary Trials
+http://192.168.12.237:8866/live?channel=97
+
+#EXTINF:0 tvg-id="nextpvr-7447" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7447" tvg-chno="98", Law & Crime
+http://192.168.12.237:8866/live?channel=98
+
+#EXTINF:0 tvg-id="nextpvr-7319" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7319" tvg-chno="99", Forensic Files
+http://192.168.12.237:8866/live?channel=99
+
+#EXTINF:0 tvg-id="nextpvr-7464" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7464" tvg-chno="100", Mysteria
+http://192.168.12.237:8866/live?channel=100
+
+#EXTINF:0 tvg-id="nextpvr-7300" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7300" tvg-chno="101", Crime Scenes
+http://192.168.12.237:8866/live?channel=101
+
+#EXTINF:0 tvg-id="nextpvr-7648" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7648" tvg-chno="102", World's Most Evil Killers
+http://192.168.12.237:8866/live?channel=102
+
+#EXTINF:0 tvg-id="nextpvr-7432" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7432" tvg-chno="103", Kung Fu Movies
+http://192.168.12.237:8866/live?channel=103
+
+#EXTINF:0 tvg-id="nextpvr-7553" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7553" tvg-chno="104", Urban Action Channel
+http://192.168.12.237:8866/live?channel=104
+
+#EXTINF:0 tvg-id="nextpvr-7249" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7249" tvg-chno="105", Action Hollywood Movies
+http://192.168.12.237:8866/live?channel=105
+
+#EXTINF:0 tvg-id="nextpvr-7291" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7291" tvg-chno="106", Conflict
+http://192.168.12.237:8866/live?channel=106
+
+#EXTINF:0 tvg-id="nextpvr-7352" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7352" tvg-chno="107", Johnny Carson TV
+http://192.168.12.237:8866/live?channel=107
+
+#EXTINF:0 tvg-id="nextpvr-7535" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7535" tvg-chno="108", The Carol Burnett Show
+http://192.168.12.237:8866/live?channel=108
+
+#EXTINF:0 tvg-id="nextpvr-7537" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7537" tvg-chno="109", The Dick Van Dyke Show
+http://192.168.12.237:8866/live?channel=109
+
+#EXTINF:0 tvg-id="nextpvr-7318" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7318" tvg-chno="110", FilmRise Classic TV
+http://192.168.12.237:8866/live?channel=110
+
+#EXTINF:0 tvg-id="nextpvr-7250" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7250" tvg-chno="111", ALF
+http://192.168.12.237:8866/live?channel=111
+
+#EXTINF:0 tvg-id="nextpvr-7542" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7542" tvg-chno="112", Three Stooges+
+http://192.168.12.237:8866/live?channel=112
+
+#EXTINF:0 tvg-id="nextpvr-7340" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7340" tvg-chno="113", Hot Ones
+http://192.168.12.237:8866/live?channel=113
+
+#EXTINF:0 tvg-id="nextpvr-7253" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7253" tvg-chno="114", America's Funniest Home Videos
+http://192.168.12.237:8866/live?channel=114
+
+#EXTINF:0 tvg-id="nextpvr-7446" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7446" tvg-chno="115", Laff More
+http://192.168.12.237:8866/live?channel=115
+
+#EXTINF:0 tvg-id="nextpvr-7463" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7463" tvg-chno="116", Mr. Bean Live Action
+http://192.168.12.237:8866/live?channel=116
+
+#EXTINF:0 tvg-id="nextpvr-7540" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7540" tvg-chno="117", The Red Green Show
+http://192.168.12.237:8866/live?channel=117
+
+#EXTINF:0 tvg-id="nextpvr-7547" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7547" tvg-chno="118", Trailer Park Boys
+http://192.168.12.237:8866/live?channel=118
+
+#EXTINF:0 tvg-id="nextpvr-7251" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7251" tvg-chno="119", Always Funny
+http://192.168.12.237:8866/live?channel=119
+
+#EXTINF:0 tvg-id="nextpvr-7315" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7315" tvg-chno="120", FailArmy
+http://192.168.12.237:8866/live?channel=120
+
+#EXTINF:0 tvg-id="nextpvr-7466" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7466" tvg-chno="121", Mystery Science Theater 3000
+http://192.168.12.237:8866/live?channel=121
+
+#EXTINF:0 tvg-id="nextpvr-7349" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7349" tvg-chno="122", Jamie Kennedy Comedy
+http://192.168.12.237:8866/live?channel=122
+
+#EXTINF:0 tvg-id="nextpvr-7354" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7354" tvg-chno="123", Just For Laughs Gags
+http://192.168.12.237:8866/live?channel=123
+
+#EXTINF:0 tvg-id="nextpvr-7348" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7348" tvg-chno="124", ION Television
+http://192.168.12.237:8866/live?channel=124
+
+#EXTINF:0 tvg-id="nextpvr-7345" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7345" tvg-chno="125", ION Mystery
+http://192.168.12.237:8866/live?channel=125
+
+#EXTINF:0 tvg-id="nextpvr-7346" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7346" tvg-chno="126", ION Plus
+http://192.168.12.237:8866/live?channel=126
+
+#EXTINF:0 tvg-id="nextpvr-7299" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7299" tvg-chno="127", Crime Beat TV
+http://192.168.12.237:8866/live?channel=127
+
+#EXTINF:0 tvg-id="nextpvr-7245" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7245" tvg-chno="128", 21 Jump Street
+http://192.168.12.237:8866/live?channel=128
+
+#EXTINF:0 tvg-id="nextpvr-7342" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7342" tvg-chno="129", Hunter
+http://192.168.12.237:8866/live?channel=129
+
+#EXTINF:0 tvg-id="nextpvr-7534" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7534" tvg-chno="130", The Bold and the Beautiful
+http://192.168.12.237:8866/live?channel=130
+
+#EXTINF:0 tvg-id="nextpvr-7333" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7333" tvg-chno="131", Highway To Heaven
+http://192.168.12.237:8866/live?channel=131
+
+#EXTINF:0 tvg-id="nextpvr-7499" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7499" tvg-chno="132", Popular Science
+http://192.168.12.237:8866/live?channel=132
+
+#EXTINF:0 tvg-id="nextpvr-7461" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7461" tvg-chno="133", MagellanTV Wildest
+http://192.168.12.237:8866/live?channel=133
+
+#EXTINF:0 tvg-id="nextpvr-7549" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7549" tvg-chno="134", True History
+http://192.168.12.237:8866/live?channel=134
+
+#EXTINF:0 tvg-id="nextpvr-7334" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7334" tvg-chno="135", History & Warfare Now
+http://192.168.12.237:8866/live?channel=135
+
+#EXTINF:0 tvg-id="nextpvr-7294" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7294" tvg-chno="136", Cosmic Frontiers
+http://192.168.12.237:8866/live?channel=136
+
+#EXTINF:0 tvg-id="nextpvr-7305" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7305" tvg-chno="137", DECLASSIFIED
+http://192.168.12.237:8866/live?channel=137
+
+#EXTINF:0 tvg-id="nextpvr-7527" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7527" tvg-chno="138", Telemundo Noticias Florida
+http://192.168.12.237:8866/live?channel=138
+
+#EXTINF:0 tvg-id="nextpvr-7526" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7526" tvg-chno="139", Telemundo Noticias California
+http://192.168.12.237:8866/live?channel=139
+
+#EXTINF:0 tvg-id="nextpvr-7529" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7529" tvg-chno="140", Telemundo Noticias Texas
+http://192.168.12.237:8866/live?channel=140
+
+#EXTINF:0 tvg-id="nextpvr-7528" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7528" tvg-chno="141", Telemundo Noticias Noreste
+http://192.168.12.237:8866/live?channel=141
+
+#EXTINF:0 tvg-id="nextpvr-7525" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7525" tvg-chno="142", Telemundo al Dia
+http://192.168.12.237:8866/live?channel=142
+
+#EXTINF:0 tvg-id="nextpvr-7487" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7487" tvg-chno="143", Noticias Telemundo Ahora
+http://192.168.12.237:8866/live?channel=143
+
+#EXTINF:0 tvg-id="nextpvr-7290" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7290" tvg-chno="144", CNN Xpress
+http://192.168.12.237:8866/live?channel=144
+
+#EXTINF:0 tvg-id="nextpvr-7550" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7550" tvg-chno="145", TuDiscovery
+http://192.168.12.237:8866/live?channel=145
+
+#EXTINF:0 tvg-id="nextpvr-7301" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7301" tvg-chno="146", Crimen
+http://192.168.12.237:8866/live?channel=146
+
+#EXTINF:0 tvg-id="nextpvr-7292" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7292" tvg-chno="147", Construcciones Asombrosas
+http://192.168.12.237:8866/live?channel=147
+
+#EXTINF:0 tvg-id="nextpvr-7582" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7582" tvg-chno="148", Vidas Extremas
+http://192.168.12.237:8866/live?channel=148
+
+#EXTINF:0 tvg-id="nextpvr-7266" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7266" tvg-chno="149", Bodas+
+http://192.168.12.237:8866/live?channel=149
+
+#EXTINF:0 tvg-id="nextpvr-7314" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7314" tvg-chno="150", Expedientes Sobrenaturales
+http://192.168.12.237:8866/live?channel=150
+
+#EXTINF:0 tvg-id="nextpvr-7544" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7544" tvg-chno="151", TMZ
+http://192.168.12.237:8866/live?channel=151
+
+#EXTINF:0 tvg-id="nextpvr-7312" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7312" tvg-chno="152", ET
+http://192.168.12.237:8866/live?channel=152
+
+#EXTINF:0 tvg-id="nextpvr-7344" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7344" tvg-chno="153", Inside Edition
+http://192.168.12.237:8866/live?channel=153
+
+#EXTINF:0 tvg-id="nextpvr-7310" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7310" tvg-chno="154", Envoy FAST
+http://192.168.12.237:8866/live?channel=154
+
+#EXTINF:0 tvg-id="nextpvr-7320" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7320" tvg-chno="155", FOX Soul
+http://192.168.12.237:8866/live?channel=155
+
+#EXTINF:0 tvg-id="nextpvr-7541" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7541" tvg-chno="156", TheGrio
+http://192.168.12.237:8866/live?channel=156
+
+#EXTINF:0 tvg-id="nextpvr-7505" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7505" tvg-chno="157", REVOLT Mixtape
+http://192.168.12.237:8866/live?channel=157
+
+#EXTINF:0 tvg-id="nextpvr-7263" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7263" tvg-chno="158", Black Enterprise Streaming Television
+http://192.168.12.237:8866/live?channel=158
+
+#EXTINF:0 tvg-id="nextpvr-7268" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7268" tvg-chno="159", Bounce XL
+http://192.168.12.237:8866/live?channel=159
+
+#EXTINF:0 tvg-id="nextpvr-7539" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7539" tvg-chno="160", The Pet Collective
+http://192.168.12.237:8866/live?channel=160
+
+#EXTINF:0 tvg-id="nextpvr-7307" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7307" tvg-chno="161", Dog Whisperer
+http://192.168.12.237:8866/live?channel=161
+
+#EXTINF:0 tvg-id="nextpvr-7492" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7492" tvg-chno="162", Paws & Claws
+http://192.168.12.237:8866/live?channel=162
+
+#EXTINF:0 tvg-id="nextpvr-7260" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7260" tvg-chno="163", Bark TV
+http://192.168.12.237:8866/live?channel=163
+
+#EXTINF:0 tvg-id="nextpvr-7501" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7501" tvg-chno="164", Pure Flix TV
+http://192.168.12.237:8866/live?channel=164
+
+#EXTINF:0 tvg-id="nextpvr-7351" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7351" tvg-chno="165", Joel Osteen Network
+http://192.168.12.237:8866/live?channel=165
+
+#EXTINF:0 tvg-id="nextpvr-7350" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7350" tvg-chno="166", JLTV
+http://192.168.12.237:8866/live?channel=166
+
+#EXTINF:0 tvg-id="nextpvr-7343" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7343" tvg-chno="167", In Touch+
+http://192.168.12.237:8866/live?channel=167
+
+#EXTINF:0 tvg-id="nextpvr-7304" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7304" tvg-chno="168", Deal or No Deal
+http://192.168.12.237:8866/live?channel=168
+
+#EXTINF:0 tvg-id="nextpvr-7617" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7617" tvg-chno="169", Wipeout Extra
+http://192.168.12.237:8866/live?channel=169
+
+#EXTINF:0 tvg-id="nextpvr-7317" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7317" tvg-chno="170", Fear Factor
+http://192.168.12.237:8866/live?channel=170
+
+#EXTINF:0 tvg-id="nextpvr-7508" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7508" tvg-chno="171", Scream Factory TV
+http://192.168.12.237:8866/live?channel=171
+
+#EXTINF:0 tvg-id="nextpvr-7509" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7509" tvg-chno="172", Screambox TV
+http://192.168.12.237:8866/live?channel=172
+
+#EXTINF:0 tvg-id="nextpvr-7302" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7302" tvg-chno="173", Dark Matter TV
+http://192.168.12.237:8866/live?channel=173
+
+#EXTINF:0 tvg-id="nextpvr-7337" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7337" tvg-chno="174", Horror Machine
+http://192.168.12.237:8866/live?channel=174
+
+#EXTINF:0 tvg-id="nextpvr-7325" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7325" tvg-chno="175", Ghosts are Real
+http://192.168.12.237:8866/live?channel=175
+
+#EXTINF:0 tvg-id="nextpvr-7465" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7465" tvg-chno="176", Mysterious Worlds
+http://192.168.12.237:8866/live?channel=176
+
+#EXTINF:0 tvg-id="nextpvr-7331" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7331" tvg-chno="177", Haunt TV
+http://192.168.12.237:8866/live?channel=177
+
+#EXTINF:0 tvg-id="nextpvr-7479" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7479" tvg-chno="178", NBC LX Home
+http://192.168.12.237:8866/live?channel=178
+
+#EXTINF:0 tvg-id="nextpvr-7329" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7329" tvg-chno="179", Gusto TV
+http://192.168.12.237:8866/live?channel=179
+
+#EXTINF:0 tvg-id="nextpvr-7494" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7494" tvg-chno="180", PBS Food
+http://192.168.12.237:8866/live?channel=180
+
+#EXTINF:0 tvg-id="nextpvr-7519" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7519" tvg-chno="181", Sweet Escapes
+http://192.168.12.237:8866/live?channel=181
+
+#EXTINF:0 tvg-id="nextpvr-7521" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7521" tvg-chno="182", Tastemade
+http://192.168.12.237:8866/live?channel=182
+
+#EXTINF:0 tvg-id="nextpvr-7598" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7598" tvg-chno="183", Welcome Home
+http://192.168.12.237:8866/live?channel=183
+
+#EXTINF:0 tvg-id="nextpvr-7336" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7336" tvg-chno="184", Homeful
+http://192.168.12.237:8866/live?channel=184
+
+#EXTINF:0 tvg-id="nextpvr-7522" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7522" tvg-chno="185", Tastemade Home
+http://192.168.12.237:8866/live?channel=185
+
+#EXTINF:0 tvg-id="nextpvr-7258" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7258" tvg-chno="186", At Home with Family Handyman
+http://192.168.12.237:8866/live?channel=186
+
+#EXTINF:0 tvg-id="nextpvr-7341" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7341" tvg-chno="187", How To
+http://192.168.12.237:8866/live?channel=187
+
+#EXTINF:0 tvg-id="nextpvr-7259" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7259" tvg-chno="188", At the Movies
+http://192.168.12.237:8866/live?channel=188
+
+#EXTINF:0 tvg-id="nextpvr-7514" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7514" tvg-chno="189", Shout! TV
+http://192.168.12.237:8866/live?channel=189
+
+#EXTINF:0 tvg-id="nextpvr-7513" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7513" tvg-chno="190", Shout! Movies
+http://192.168.12.237:8866/live?channel=190
+
+#EXTINF:0 tvg-id="nextpvr-7486" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7486" tvg-chno="191", Non-Stop '90s
+http://192.168.12.237:8866/live?channel=191
+
+#EXTINF:0 tvg-id="nextpvr-7327" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7327" tvg-chno="192", Great American RomComs
+http://192.168.12.237:8866/live?channel=192
+
+#EXTINF:0 tvg-id="nextpvr-7309" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7309" tvg-chno="193", ElectricNOW
+http://192.168.12.237:8866/live?channel=193
+
+#EXTINF:0 tvg-id="nextpvr-7323" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7323" tvg-chno="194", Free Movies Plus
+http://192.168.12.237:8866/live?channel=194
+
+#EXTINF:0 tvg-id="nextpvr-7531" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7531" tvg-chno="195", that's 70s
+http://192.168.12.237:8866/live?channel=195
+
+#EXTINF:0 tvg-id="nextpvr-7532" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7532" tvg-chno="196", that's 80s
+http://192.168.12.237:8866/live?channel=196
+
+#EXTINF:0 tvg-id="nextpvr-7533" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7533" tvg-chno="197", that's Rock
+http://192.168.12.237:8866/live?channel=197
+
+#EXTINF:0 tvg-id="nextpvr-7495" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7495" tvg-chno="198", PBS Nature
+http://192.168.12.237:8866/live?channel=198
+
+#EXTINF:0 tvg-id="nextpvr-7460" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7460" tvg-chno="199", Love Nature
+http://192.168.12.237:8866/live?channel=199
+
+#EXTINF:0 tvg-id="nextpvr-7588" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7588" tvg-chno="200", Waypoint TV
+http://192.168.12.237:8866/live?channel=200
+
+#EXTINF:0 tvg-id="nextpvr-7491" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7491" tvg-chno="201", Outdoor America
+http://192.168.12.237:8866/live?channel=201
+
+#EXTINF:0 tvg-id="nextpvr-7618" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7618" tvg-chno="202", Wired2Fish
+http://192.168.12.237:8866/live?channel=202
+
+#EXTINF:0 tvg-id="nextpvr-7502" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7502" tvg-chno="203", Pursuit Up
+http://192.168.12.237:8866/live?channel=203
+
+#EXTINF:0 tvg-id="nextpvr-7515" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7515" tvg-chno="204", Skull Bound TV
+http://192.168.12.237:8866/live?channel=204
+
+#EXTINF:0 tvg-id="nextpvr-7324" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7324" tvg-chno="205", Game & Fish TV
+http://192.168.12.237:8866/live?channel=205
+
+#EXTINF:0 tvg-id="nextpvr-7330" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7330" tvg-chno="206", H2O TV
+http://192.168.12.237:8866/live?channel=206
+
+#EXTINF:0 tvg-id="nextpvr-7255" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7255" tvg-chno="207", American Stories Network
+http://192.168.12.237:8866/live?channel=207
+
+#EXTINF:0 tvg-id="nextpvr-7552" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7552" tvg-chno="208", Unique Lives
+http://192.168.12.237:8866/live?channel=208
+
+#EXTINF:0 tvg-id="nextpvr-7353" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7353" tvg-chno="209", Judge Judy
+http://192.168.12.237:8866/live?channel=209
+
+#EXTINF:0 tvg-id="nextpvr-7338" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7338" tvg-chno="210", Hot Bench
+http://192.168.12.237:8866/live?channel=210
+
+#EXTINF:0 tvg-id="nextpvr-7287" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7287" tvg-chno="211", Cheaters
+http://192.168.12.237:8866/live?channel=211
+
+#EXTINF:0 tvg-id="nextpvr-7459" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7459" tvg-chno="212", Love & Marriage
+http://192.168.12.237:8866/live?channel=212
+
+#EXTINF:0 tvg-id="nextpvr-7316" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7316" tvg-chno="213", Family Unscripted
+http://192.168.12.237:8866/live?channel=213
+
+#EXTINF:0 tvg-id="nextpvr-7269" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7269" tvg-chno="214", Car Chase
+http://192.168.12.237:8866/live?channel=214
+
+#EXTINF:0 tvg-id="nextpvr-7490" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7490" tvg-chno="215", Operation Repo
+http://192.168.12.237:8866/live?channel=215
+
+#EXTINF:0 tvg-id="nextpvr-7467" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7467" tvg-chno="216", NatureStream.TV
+http://192.168.12.237:8866/live?channel=216
+
+#EXTINF:0 tvg-id="nextpvr-7308" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7308" tvg-chno="217", Drone TV
+http://192.168.12.237:8866/live?channel=217
+
+#EXTINF:0 tvg-id="nextpvr-7321" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7321" tvg-chno="218", FOX Sports
+http://192.168.12.237:8866/live?channel=218
+
+#EXTINF:0 tvg-id="nextpvr-7511" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7511" tvg-chno="219", Scripps Sports Network
+http://192.168.12.237:8866/live?channel=219
+
+#EXTINF:0 tvg-id="nextpvr-7518" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7518" tvg-chno="220", Sports Illustrated TV
+http://192.168.12.237:8866/live?channel=220
+
+#EXTINF:0 tvg-id="nextpvr-7286" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7286" tvg-chno="221", CBS Sports Golazo Network
+http://192.168.12.237:8866/live?channel=221
+
+#EXTINF:0 tvg-id="nextpvr-7551" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7551" tvg-chno="222", UEFA Champions League
+http://192.168.12.237:8866/live?channel=222
+
+#EXTINF:0 tvg-id="nextpvr-7503" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7503" tvg-chno="223", Real Madrid TV
+http://192.168.12.237:8866/live?channel=223
+
+#EXTINF:0 tvg-id="nextpvr-7332" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7332" tvg-chno="224", HBCU Go!
+http://192.168.12.237:8866/live?channel=224
+
+#EXTINF:0 tvg-id="nextpvr-7261" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7261" tvg-chno="225", Best of Free Live Sports
+http://192.168.12.237:8866/live?channel=225
+
+#EXTINF:0 tvg-id="nextpvr-7453" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7453" tvg-chno="226", Locked On NFL
+http://192.168.12.237:8866/live?channel=226
+
+#EXTINF:0 tvg-id="nextpvr-7451" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7451" tvg-chno="227", Locked On College Sports
+http://192.168.12.237:8866/live?channel=227
+
+#EXTINF:0 tvg-id="nextpvr-7457" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7457" tvg-chno="228", Locked On Sports Today
+http://192.168.12.237:8866/live?channel=228
+
+#EXTINF:0 tvg-id="nextpvr-7452" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7452" tvg-chno="229", Locked on NBA
+http://192.168.12.237:8866/live?channel=229
+
+#EXTINF:0 tvg-id="nextpvr-7454" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7454" tvg-chno="230", Locked On Sports Atlanta
+http://192.168.12.237:8866/live?channel=230
+
+#EXTINF:0 tvg-id="nextpvr-7455" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7455" tvg-chno="231", Locked On Sports Los Angeles
+http://192.168.12.237:8866/live?channel=231
+
+#EXTINF:0 tvg-id="nextpvr-7497" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7497" tvg-chno="232", PLL Network
+http://192.168.12.237:8866/live?channel=232
+
+#EXTINF:0 tvg-id="nextpvr-7530" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7530" tvg-chno="233", Tennis Channel 2
+http://192.168.12.237:8866/live?channel=233
+
+#EXTINF:0 tvg-id="nextpvr-7496" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7496" tvg-chno="234", PickleballTV
+http://192.168.12.237:8866/live?channel=234
+
+#EXTINF:0 tvg-id="nextpvr-7646" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7646" tvg-chno="235", World Poker Tour
+http://192.168.12.237:8866/live?channel=235
+
+#EXTINF:0 tvg-id="nextpvr-7498" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7498" tvg-chno="236", Poker Night in America
+http://192.168.12.237:8866/live?channel=236
+
+#EXTINF:0 tvg-id="nextpvr-7293" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7293" tvg-chno="237", Cornhole TV
+http://192.168.12.237:8866/live?channel=237
+
+#EXTINF:0 tvg-id="nextpvr-7262" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7262" tvg-chno="238", Billiard TV
+http://192.168.12.237:8866/live?channel=238
+
+#EXTINF:0 tvg-id="nextpvr-7545" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7545" tvg-chno="239", TNA Wrestling
+http://192.168.12.237:8866/live?channel=239
+
+#EXTINF:0 tvg-id="nextpvr-7298" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7298" tvg-chno="240", Cowboy+ Sports
+http://192.168.12.237:8866/live?channel=240
+
+#EXTINF:0 tvg-id="nextpvr-7326" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7326" tvg-chno="241", GoPro TV
+http://192.168.12.237:8866/live?channel=241
+
+#EXTINF:0 tvg-id="nextpvr-7647" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7647" tvg-chno="242", World Surf League
+http://192.168.12.237:8866/live?channel=242
+
+#EXTINF:0 tvg-id="nextpvr-7306" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7306" tvg-chno="243", Discovery Turbo TV
+http://192.168.12.237:8866/live?channel=243
+
+#EXTINF:0 tvg-id="nextpvr-7462" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7462" tvg-chno="244", Monster Jam
+http://192.168.12.237:8866/live?channel=244
+
+#EXTINF:0 tvg-id="nextpvr-7500" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7500" tvg-chno="245", PowerSports World
+http://192.168.12.237:8866/live?channel=245
+
+#EXTINF:0 tvg-id="nextpvr-7516" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7516" tvg-chno="246", Speedvision
+http://192.168.12.237:8866/live?channel=246
+
+#EXTINF:0 tvg-id="nextpvr-7493" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7493" tvg-chno="247", PBS Antiques Roadshow
+http://192.168.12.237:8866/live?channel=247
+
+#EXTINF:0 tvg-id="nextpvr-7256" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7256" tvg-chno="248", Antiques Road Trip
+http://192.168.12.237:8866/live?channel=248
+
+#EXTINF:0 tvg-id="nextpvr-7524" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7524" tvg-chno="249", Tastemade Travel
+http://192.168.12.237:8866/live?channel=249
+
+#EXTINF:0 tvg-id="nextpvr-7548" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7548" tvg-chno="250", Travel Escapes
+http://192.168.12.237:8866/live?channel=250
+
+#EXTINF:0 tvg-id="nextpvr-7458" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7458" tvg-chno="251", Lone Star
+http://192.168.12.237:8866/live?channel=251
+
+#EXTINF:0 tvg-id="nextpvr-7616" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7616" tvg-chno="252", Wild West TV
+http://192.168.12.237:8866/live?channel=252
+
+#EXTINF:0 tvg-id="nextpvr-7328" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7328" tvg-chno="253", Grit Xtra
+http://192.168.12.237:8866/live?channel=253
+
+#EXTINF:0 tvg-id="nextpvr-7488" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7488" tvg-chno="254", Old West TV
+http://192.168.12.237:8866/live?channel=254
+
+#EXTINF:0 tvg-id="nextpvr-7297" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7297" tvg-chno="255", Cowboy Classics
+http://192.168.12.237:8866/live?channel=255
+
+#EXTINF:0 tvg-id="nextpvr-7471" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7471" tvg-chno="256", NBC 4 New York News
+http://192.168.12.237:8866/live?channel=256
+
+#EXTINF:0 tvg-id="nextpvr-7281" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7281" tvg-chno="257", CBS News New York
+http://192.168.12.237:8866/live?channel=257
+
+#EXTINF:0 tvg-id="nextpvr-7642" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7642" tvg-chno="258", WNYW FOX 5 New York NY
+http://192.168.12.237:8866/live?channel=258
+
+#EXTINF:0 tvg-id="nextpvr-7482" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7482" tvg-chno="259", News 12 New York
+http://192.168.12.237:8866/live?channel=259
+
+#EXTINF:0 tvg-id="nextpvr-7484" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7484" tvg-chno="260", Newsday TV Long Island NY
+http://192.168.12.237:8866/live?channel=260
+
+#EXTINF:0 tvg-id="nextpvr-7489" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7489" tvg-chno="261", ONNJ On New Jersey
+http://192.168.12.237:8866/live?channel=261
+
+#EXTINF:0 tvg-id="nextpvr-7469" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7469" tvg-chno="262", NBC 10 Philadelphia News
+http://192.168.12.237:8866/live?channel=262
+
+#EXTINF:0 tvg-id="nextpvr-7282" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7282" tvg-chno="263", CBS News Philadelphia
+http://192.168.12.237:8866/live?channel=263
+
+#EXTINF:0 tvg-id="nextpvr-7678" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7678" tvg-chno="264", WTXF FOX 29 Philadelphia PA
+http://192.168.12.237:8866/live?channel=264
+
+#EXTINF:0 tvg-id="nextpvr-7659" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7659" tvg-chno="265", WSB (ABC) News 2 Atlanta GA
+http://192.168.12.237:8866/live?channel=265
+
+#EXTINF:0 tvg-id="nextpvr-7584" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7584" tvg-chno="266", WAGA FOX 5 Atlanta GA
+http://192.168.12.237:8866/live?channel=266
+
+#EXTINF:0 tvg-id="nextpvr-7684" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7684" tvg-chno="267", WXIA NBC 11Alive Atlanta GA
+http://192.168.12.237:8866/live?channel=267
+
+#EXTINF:0 tvg-id="nextpvr-7472" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7472" tvg-chno="268", NBC 4 Washington News
+http://192.168.12.237:8866/live?channel=268
+
+#EXTINF:0 tvg-id="nextpvr-7673" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7673" tvg-chno="269", WTTG FOX 5 Washington DC
+http://192.168.12.237:8866/live?channel=269
+
+#EXTINF:0 tvg-id="nextpvr-7625" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7625" tvg-chno="270", WJLA ABC7 Washington D.C. News
+http://192.168.12.237:8866/live?channel=270
+
+#EXTINF:0 tvg-id="nextpvr-7680" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7680" tvg-chno="271", WUSA CBS 9 Washington DC
+http://192.168.12.237:8866/live?channel=271
+
+#EXTINF:0 tvg-id="nextpvr-7468" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7468" tvg-chno="272", NBC 10 Boston News
+http://192.168.12.237:8866/live?channel=272
+
+#EXTINF:0 tvg-id="nextpvr-7274" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7274" tvg-chno="273", CBS News Boston
+http://192.168.12.237:8866/live?channel=273
+
+#EXTINF:0 tvg-id="nextpvr-7608" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7608" tvg-chno="274", WFXT (FOX) News 25 Boston MA
+http://192.168.12.237:8866/live?channel=274
+
+#EXTINF:0 tvg-id="nextpvr-7557" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7557" tvg-chno="275", Very Boston by WCVB
+http://192.168.12.237:8866/live?channel=275
+
+#EXTINF:0 tvg-id="nextpvr-7570" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7570" tvg-chno="276", Very New Hampshire by WMUR
+http://192.168.12.237:8866/live?channel=276
+
+#EXTINF:0 tvg-id="nextpvr-7677" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7677" tvg-chno="277", WTVT FOX 13 Tampa Bay FL
+http://192.168.12.237:8866/live?channel=277
+
+#EXTINF:0 tvg-id="nextpvr-7672" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7672" tvg-chno="278", WTSP CBS 10 Tampa Bay FL
+http://192.168.12.237:8866/live?channel=278
+
+#EXTINF:0 tvg-id="nextpvr-7520" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7520" tvg-chno="279", Tampa Bay 28
+http://192.168.12.237:8866/live?channel=279
+
+#EXTINF:0 tvg-id="nextpvr-7581" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7581" tvg-chno="280", Very Tampa Bay by WMOR
+http://192.168.12.237:8866/live?channel=280
+
+#EXTINF:0 tvg-id="nextpvr-7277" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7277" tvg-chno="281", CBS News Detroit
+http://192.168.12.237:8866/live?channel=281
+
+#EXTINF:0 tvg-id="nextpvr-7624" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7624" tvg-chno="282", WJBK FOX 2 Detroit MI
+http://192.168.12.237:8866/live?channel=282
+
+#EXTINF:0 tvg-id="nextpvr-7687" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7687" tvg-chno="283", WXYZ 7 Action News Detroit
+http://192.168.12.237:8866/live?channel=283
+
+#EXTINF:0 tvg-id="nextpvr-7607" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7607" tvg-chno="284", WFTV (ABC) News 9 Orlando FL
+http://192.168.12.237:8866/live?channel=284
+
+#EXTINF:0 tvg-id="nextpvr-7644" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7644" tvg-chno="285", WOFL FOX 35 Orlando FL
+http://192.168.12.237:8866/live?channel=285
+
+#EXTINF:0 tvg-id="nextpvr-7575" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7575" tvg-chno="286", Very Orlando by WESH 2-TV
+http://192.168.12.237:8866/live?channel=286
+
+#EXTINF:0 tvg-id="nextpvr-7475" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7475" tvg-chno="287", NBC 6 South Florida News
+http://192.168.12.237:8866/live?channel=287
+
+#EXTINF:0 tvg-id="nextpvr-7279" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7279" tvg-chno="288", CBS News Miami
+http://192.168.12.237:8866/live?channel=288
+
+#EXTINF:0 tvg-id="nextpvr-7632" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7632" tvg-chno="289", WKYC 3 News Cleveland OH
+http://192.168.12.237:8866/live?channel=289
+
+#EXTINF:0 tvg-id="nextpvr-7601" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7601" tvg-chno="290", WEWS News 5 Cleveland
+http://192.168.12.237:8866/live?channel=290
+
+#EXTINF:0 tvg-id="nextpvr-7662" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7662" tvg-chno="291", WSOC (ABC) News 9 Charlotte NC
+http://192.168.12.237:8866/live?channel=291
+
+#EXTINF:0 tvg-id="nextpvr-7593" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7593" tvg-chno="292", WCNC NBC Charlotte NC
+http://192.168.12.237:8866/live?channel=292
+
+#EXTINF:0 tvg-id="nextpvr-7657" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7657" tvg-chno="293", WRAL News Raleigh
+http://192.168.12.237:8866/live?channel=293
+
+#EXTINF:0 tvg-id="nextpvr-7666" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7666" tvg-chno="294", WTHR NBC News 13 Indianapolis IN
+http://192.168.12.237:8866/live?channel=294
+
+#EXTINF:0 tvg-id="nextpvr-7654" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7654" tvg-chno="295", WPXI (NBC) News 11 Pittsburgh PA
+http://192.168.12.237:8866/live?channel=295
+
+#EXTINF:0 tvg-id="nextpvr-7283" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7283" tvg-chno="296", CBS News Pittsburgh
+http://192.168.12.237:8866/live?channel=296
+
+#EXTINF:0 tvg-id="nextpvr-7577" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7577" tvg-chno="297", Very Pittsburgh by WTAE
+http://192.168.12.237:8866/live?channel=297
+
+#EXTINF:0 tvg-id="nextpvr-7272" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7272" tvg-chno="298", CBS News Baltimore
+http://192.168.12.237:8866/live?channel=298
+
+#EXTINF:0 tvg-id="nextpvr-7589" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7589" tvg-chno="299", WBFF FOX45 Baltimore MD
+http://192.168.12.237:8866/live?channel=299
+
+#EXTINF:0 tvg-id="nextpvr-7638" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7638" tvg-chno="300", WMAR 2 News Baltimore
+http://192.168.12.237:8866/live?channel=300
+
+#EXTINF:0 tvg-id="nextpvr-7556" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7556" tvg-chno="301", Very Baltimore by WBAL-TV
+http://192.168.12.237:8866/live?channel=301
+
+#EXTINF:0 tvg-id="nextpvr-7478" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7478" tvg-chno="302", NBC Connecticut News
+http://192.168.12.237:8866/live?channel=302
+
+#EXTINF:0 tvg-id="nextpvr-7667" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7667" tvg-chno="303", WTIC FOX 61 News Hartford CT
+http://192.168.12.237:8866/live?channel=303
+
+#EXTINF:0 tvg-id="nextpvr-7664" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7664" tvg-chno="304", WSYX ABC 6 Columbus OH
+http://192.168.12.237:8866/live?channel=304
+
+#EXTINF:0 tvg-id="nextpvr-7591" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7591" tvg-chno="305", WBNS CBS 10TV News Columbus OH
+http://192.168.12.237:8866/live?channel=305
+
+#EXTINF:0 tvg-id="nextpvr-7635" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7635" tvg-chno="306", WLOS News 13 Asheville NC
+http://192.168.12.237:8866/live?channel=306
+
+#EXTINF:0 tvg-id="nextpvr-7559" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7559" tvg-chno="307", Very Carolina by WYFF 4
+http://192.168.12.237:8866/live?channel=307
+
+#EXTINF:0 tvg-id="nextpvr-7631" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7631" tvg-chno="308", WKRC Local 12 News Cincinnati OH
+http://192.168.12.237:8866/live?channel=308
+
+#EXTINF:0 tvg-id="nextpvr-7594" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7594" tvg-chno="309", WCPO 9 News Cincinnati
+http://192.168.12.237:8866/live?channel=309
+
+#EXTINF:0 tvg-id="nextpvr-7562" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7562" tvg-chno="310", Very Cincinnati by WLWT
+http://192.168.12.237:8866/live?channel=310
+
+#EXTINF:0 tvg-id="nextpvr-7650" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7650" tvg-chno="311", WPEC CBS 12 News West Palm Beach FL
+http://192.168.12.237:8866/live?channel=311
+
+#EXTINF:0 tvg-id="nextpvr-7653" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7653" tvg-chno="312", WPTV Channel5 News West Palm Beach
+http://192.168.12.237:8866/live?channel=312
+
+#EXTINF:0 tvg-id="nextpvr-7580" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7580" tvg-chno="313", Very South Florida by WPBF 25
+http://192.168.12.237:8866/live?channel=313
+
+#EXTINF:0 tvg-id="nextpvr-7623" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7623" tvg-chno="314", WJAX (CBS) News 47 Jacksonville FL
+http://192.168.12.237:8866/live?channel=314
+
+#EXTINF:0 tvg-id="nextpvr-7669" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7669" tvg-chno="315", WTLV NBC/ABC First Coast News Jacksonville FL
+http://192.168.12.237:8866/live?channel=315
+
+#EXTINF:0 tvg-id="nextpvr-7606" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7606" tvg-chno="316", WFMZ 69 News Allentown PA
+http://192.168.12.237:8866/live?channel=316
+
+#EXTINF:0 tvg-id="nextpvr-7615" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7615" tvg-chno="317", WHP CBS 21 News Harrisburg PA
+http://192.168.12.237:8866/live?channel=317
+
+#EXTINF:0 tvg-id="nextpvr-7651" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7651" tvg-chno="318", WPMT FOX43 Harrisburg PA
+http://192.168.12.237:8866/live?channel=318
+
+#EXTINF:0 tvg-id="nextpvr-7576" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7576" tvg-chno="319", Very Pennsylvania by WGAL
+http://192.168.12.237:8866/live?channel=319
+
+#EXTINF:0 tvg-id="nextpvr-7248" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7248" tvg-chno="320", 9&10 News Northern Michigan
+http://192.168.12.237:8866/live?channel=320
+
+#EXTINF:0 tvg-id="nextpvr-7683" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7683" tvg-chno="321", WWMT News Channel 3 Grand Rapids MI
+http://192.168.12.237:8866/live?channel=321
+
+#EXTINF:0 tvg-id="nextpvr-7689" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7689" tvg-chno="322", WZZM ABC 13 On Your Side Grand Rapids MI
+http://192.168.12.237:8866/live?channel=322
+
+#EXTINF:0 tvg-id="nextpvr-7685" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7685" tvg-chno="323", WXMI FOX17 News West Michigan
+http://192.168.12.237:8866/live?channel=323
+
+#EXTINF:0 tvg-id="nextpvr-7681" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7681" tvg-chno="324", WVEC ABC 13 News Norfolk VA
+http://192.168.12.237:8866/live?channel=324
+
+#EXTINF:0 tvg-id="nextpvr-7668" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7668" tvg-chno="325", WTKR News 3 Norfolk
+http://192.168.12.237:8866/live?channel=325
+
+#EXTINF:0 tvg-id="nextpvr-7605" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7605" tvg-chno="326", WFMY CBS 2 News Greensboro NC
+http://192.168.12.237:8866/live?channel=326
+
+#EXTINF:0 tvg-id="nextpvr-7558" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7558" tvg-chno="327", Very Carolina by WXII
+http://192.168.12.237:8866/live?channel=327
+
+#EXTINF:0 tvg-id="nextpvr-7596" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7596" tvg-chno="328", WDRB Louisville KY
+http://192.168.12.237:8866/live?channel=328
+
+#EXTINF:0 tvg-id="nextpvr-7611" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7611" tvg-chno="329", WHAS ABC 11 On Your Side Louisville KY
+http://192.168.12.237:8866/live?channel=329
+
+#EXTINF:0 tvg-id="nextpvr-7567" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7567" tvg-chno="330", Very Louisville by WLKY
+http://192.168.12.237:8866/live?channel=330
+
+#EXTINF:0 tvg-id="nextpvr-7622" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7622" tvg-chno="331", WJAR NBC 10 News Providence RI
+http://192.168.12.237:8866/live?channel=331
+
+#EXTINF:0 tvg-id="nextpvr-7563" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7563" tvg-chno="332", Very Gulf Coast by WBBH
+http://192.168.12.237:8866/live?channel=332
+
+#EXTINF:0 tvg-id="nextpvr-7610" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7610" tvg-chno="333", WGRZ NBC 2 On Your Side Buffalo NY
+http://192.168.12.237:8866/live?channel=333
+
+#EXTINF:0 tvg-id="nextpvr-7628" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7628" tvg-chno="334", WKBW 7 News Buffalo
+http://192.168.12.237:8866/live?channel=334
+
+#EXTINF:0 tvg-id="nextpvr-7676" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7676" tvg-chno="335", WTVR CBS6 News Richmond
+http://192.168.12.237:8866/live?channel=335
+
+#EXTINF:0 tvg-id="nextpvr-7640" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7640" tvg-chno="336", WNEP ABC 16 The News Station NE/Central PA
+http://192.168.12.237:8866/live?channel=336
+
+#EXTINF:0 tvg-id="nextpvr-7590" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7590" tvg-chno="337", WBIR NBC 10 News Knoxville TN
+http://192.168.12.237:8866/live?channel=337
+
+#EXTINF:0 tvg-id="nextpvr-7641" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7641" tvg-chno="338", WNYT 13 (NBC) Albany NY
+http://192.168.12.237:8866/live?channel=338
+
+#EXTINF:0 tvg-id="nextpvr-7633" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7633" tvg-chno="339", WLEX LEX18 News Lexington
+http://192.168.12.237:8866/live?channel=339
+
+#EXTINF:0 tvg-id="nextpvr-7614" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7614" tvg-chno="340", WHIO (CBS) News 7 Dayton OH
+http://192.168.12.237:8866/live?channel=340
+
+#EXTINF:0 tvg-id="nextpvr-7629" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7629" tvg-chno="341", WKEF Dayton 24/7 Now News
+http://192.168.12.237:8866/live?channel=341
+
+#EXTINF:0 tvg-id="nextpvr-7626" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7626" tvg-chno="342", WJRT (ABC) News 12 Flint MI
+http://192.168.12.237:8866/live?channel=342
+
+#EXTINF:0 tvg-id="nextpvr-7636" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7636" tvg-chno="343", WLTX CBS 19 Columbia SC
+http://192.168.12.237:8866/live?channel=343
+
+#EXTINF:0 tvg-id="nextpvr-7483" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7483" tvg-chno="344", News Center Maine NBC Portland-Bangor ME
+http://192.168.12.237:8866/live?channel=344
+
+#EXTINF:0 tvg-id="nextpvr-7568" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7568" tvg-chno="345", Very Maine by WMTW
+http://192.168.12.237:8866/live?channel=345
+
+#EXTINF:0 tvg-id="nextpvr-7613" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7613" tvg-chno="346", WHEC News 10 (NBC) Rochester NY
+http://192.168.12.237:8866/live?channel=346
+
+#EXTINF:0 tvg-id="nextpvr-7670" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7670" tvg-chno="347", WTOL CBS 11 News Toledo OH
+http://192.168.12.237:8866/live?channel=347
+
+#EXTINF:0 tvg-id="nextpvr-7579" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7579" tvg-chno="348", Very Savannah by WJCL
+http://192.168.12.237:8866/live?channel=348
+
+#EXTINF:0 tvg-id="nextpvr-7592" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7592" tvg-chno="349", WCIV ABC News 4 Charleston SC
+http://192.168.12.237:8866/live?channel=349
+
+#EXTINF:0 tvg-id="nextpvr-7561" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7561" tvg-chno="350", Very Champlain Valley by NBC 5
+http://192.168.12.237:8866/live?channel=350
+
+#EXTINF:0 tvg-id="nextpvr-7649" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7649" tvg-chno="351", WPDE ABC 15 News Myrtle Beach SC
+http://192.168.12.237:8866/live?channel=351
+
+#EXTINF:0 tvg-id="nextpvr-7660" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7660" tvg-chno="352", WSBT 22 News South Bend IN
+http://192.168.12.237:8866/live?channel=352
+
+#EXTINF:0 tvg-id="nextpvr-7679" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7679" tvg-chno="353", WTXL ABC27 News Tallahassee
+http://192.168.12.237:8866/live?channel=353
+
+#EXTINF:0 tvg-id="nextpvr-7603" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7603" tvg-chno="354", WFFT (FOX) News 55 Fort Wayne IN
+http://192.168.12.237:8866/live?channel=354
+
+#EXTINF:0 tvg-id="nextpvr-7621" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7621" tvg-chno="355", WJAC NBC 6 News Johnstown PA
+http://192.168.12.237:8866/live?channel=355
+
+#EXTINF:0 tvg-id="nextpvr-7663" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7663" tvg-chno="356", WSYM FOX47 News Lansing
+http://192.168.12.237:8866/live?channel=356
+
+#EXTINF:0 tvg-id="nextpvr-7639" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7639" tvg-chno="357", WMAZ CBS 13 Macon GA
+http://192.168.12.237:8866/live?channel=357
+
+#EXTINF:0 tvg-id="nextpvr-7311" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7311" tvg-chno="358", Erie News Now
+http://192.168.12.237:8866/live?channel=358
+
+#EXTINF:0 tvg-id="nextpvr-7665" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7665" tvg-chno="359", WTHI (CBS) News 10 Terre Haute IN
+http://192.168.12.237:8866/live?channel=359
+
+#EXTINF:0 tvg-id="nextpvr-7671" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7671" tvg-chno="360", WTOV NBC 9 News Steubenville OH
+http://192.168.12.237:8866/live?channel=360
+
+#EXTINF:0 tvg-id="nextpvr-7599" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7599" tvg-chno="361", WENY News Elmira NY
+http://192.168.12.237:8866/live?channel=361
+
+#EXTINF:0 tvg-id="nextpvr-7634" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7634" tvg-chno="362", WLFI (CBS) News 16 Lafayette IN
+http://192.168.12.237:8866/live?channel=362
+
+#EXTINF:0 tvg-id="nextpvr-7473" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7473" tvg-chno="363", NBC 5 Chicago News
+http://192.168.12.237:8866/live?channel=363
+
+#EXTINF:0 tvg-id="nextpvr-7275" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7275" tvg-chno="364", CBS News Chicago
+http://192.168.12.237:8866/live?channel=364
+
+#EXTINF:0 tvg-id="nextpvr-7604" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7604" tvg-chno="365", WFLD FOX 32 Chicago IL
+http://192.168.12.237:8866/live?channel=365
+
+#EXTINF:0 tvg-id="nextpvr-7474" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7474" tvg-chno="366", NBC 5 Dallas Fort Worth News
+http://192.168.12.237:8866/live?channel=366
+
+#EXTINF:0 tvg-id="nextpvr-7285" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7285" tvg-chno="367", CBS News Texas
+http://192.168.12.237:8866/live?channel=367
+
+#EXTINF:0 tvg-id="nextpvr-7365" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7365" tvg-chno="368", KDFW FOX 4 Dallas Fort Worth TX
+http://192.168.12.237:8866/live?channel=368
+
+#EXTINF:0 tvg-id="nextpvr-7602" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7602" tvg-chno="369", WFAA ABC 8 News Dallas TX
+http://192.168.12.237:8866/live?channel=369
+
+#EXTINF:0 tvg-id="nextpvr-7411" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7411" tvg-chno="370", KRIV FOX 26 Houston TX
+http://192.168.12.237:8866/live?channel=370
+
+#EXTINF:0 tvg-id="nextpvr-7379" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7379" tvg-chno="371", KHOU 11 News Houston TX
+http://192.168.12.237:8866/live?channel=371
+
+#EXTINF:0 tvg-id="nextpvr-7419" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7419" tvg-chno="372", KSTP (ABC) News 5 St. Paul/Minneapolis MN
+http://192.168.12.237:8866/live?channel=372
+
+#EXTINF:0 tvg-id="nextpvr-7280" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7280" tvg-chno="373", CBS News Minnesota
+http://192.168.12.237:8866/live?channel=373
+
+#EXTINF:0 tvg-id="nextpvr-7394" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7394" tvg-chno="374", KMSP FOX LOCAL Minnesota
+http://192.168.12.237:8866/live?channel=374
+
+#EXTINF:0 tvg-id="nextpvr-7357" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7357" tvg-chno="375", KARE NBC 11 News Minneapolis MN
+http://192.168.12.237:8866/live?channel=375
+
+#EXTINF:0 tvg-id="nextpvr-7415" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7415" tvg-chno="376", KSDK NBC News St. Louis MO
+http://192.168.12.237:8866/live?channel=376
+
+#EXTINF:0 tvg-id="nextpvr-7675" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7675" tvg-chno="377", WTVF Channel5 News Nashville
+http://192.168.12.237:8866/live?channel=377
+
+#EXTINF:0 tvg-id="nextpvr-7643" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7643" tvg-chno="378", WOAI NBC News Channel 4 San Antonio TX
+http://192.168.12.237:8866/live?channel=378
+
+#EXTINF:0 tvg-id="nextpvr-7367" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7367" tvg-chno="379", KENS CBS 5 News San Antonio TX
+http://192.168.12.237:8866/live?channel=379
+
+#EXTINF:0 tvg-id="nextpvr-7416" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7416" tvg-chno="380", KSHB 41 News Kansas City
+http://192.168.12.237:8866/live?channel=380
+
+#EXTINF:0 tvg-id="nextpvr-7566" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7566" tvg-chno="381", Very Kansas City by KMBC/KCWE
+http://192.168.12.237:8866/live?channel=381
+
+#EXTINF:0 tvg-id="nextpvr-7421" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7421" tvg-chno="382", KTBC FOX 7 Austin TX
+http://192.168.12.237:8866/live?channel=382
+
+#EXTINF:0 tvg-id="nextpvr-7370" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7370" tvg-chno="383", KEYE CBS Austin News Austin TX
+http://192.168.12.237:8866/live?channel=383
+
+#EXTINF:0 tvg-id="nextpvr-7437" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7437" tvg-chno="384", KVUE ABC Austin TX
+http://192.168.12.237:8866/live?channel=384
+
+#EXTINF:0 tvg-id="nextpvr-7620" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7620" tvg-chno="385", WITI FOX 6 Milwaukee WI
+http://192.168.12.237:8866/live?channel=385
+
+#EXTINF:0 tvg-id="nextpvr-7543" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7543" tvg-chno="386", TMJ4 News Milwaukee
+http://192.168.12.237:8866/live?channel=386
+
+#EXTINF:0 tvg-id="nextpvr-7569" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7569" tvg-chno="387", Very Milwaukee by WISN 12
+http://192.168.12.237:8866/live?channel=387
+
+#EXTINF:0 tvg-id="nextpvr-7554" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7554" tvg-chno="388", Very Alabama by WVTM
+http://192.168.12.237:8866/live?channel=388
+
+#EXTINF:0 tvg-id="nextpvr-7439" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7439" tvg-chno="389", KWTV News 9 Oklahoma City OK
+http://192.168.12.237:8866/live?channel=389
+
+#EXTINF:0 tvg-id="nextpvr-7402" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7402" tvg-chno="390", KOKH FOX 25 News Oklahoma City OK
+http://192.168.12.237:8866/live?channel=390
+
+#EXTINF:0 tvg-id="nextpvr-7573" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7573" tvg-chno="391", Very Oklahoma by KOCO
+http://192.168.12.237:8866/live?channel=391
+
+#EXTINF:0 tvg-id="nextpvr-7682" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7682" tvg-chno="392", WWL CBS 4 New Orleans LA
+http://192.168.12.237:8866/live?channel=392
+
+#EXTINF:0 tvg-id="nextpvr-7572" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7572" tvg-chno="393", Very New Orleans by WDSU
+http://192.168.12.237:8866/live?channel=393
+
+#EXTINF:0 tvg-id="nextpvr-7612" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7612" tvg-chno="394", WHBQ (FOX) News 13 Memphis TN
+http://192.168.12.237:8866/live?channel=394
+
+#EXTINF:0 tvg-id="nextpvr-7587" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7587" tvg-chno="395", WATN ABC 24 News Right Now Memphis TN
+http://192.168.12.237:8866/live?channel=395
+
+#EXTINF:0 tvg-id="nextpvr-7422" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7422" tvg-chno="396", KTHV CBS 11 News Little Rock AR
+http://192.168.12.237:8866/live?channel=396
+
+#EXTINF:0 tvg-id="nextpvr-7405" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7405" tvg-chno="397", KOTV News On 6 Tulsa OK
+http://192.168.12.237:8866/live?channel=397
+
+#EXTINF:0 tvg-id="nextpvr-7403" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7403" tvg-chno="398", KOKI (FOX) News 23 Tulsa OK
+http://192.168.12.237:8866/live?channel=398
+
+#EXTINF:0 tvg-id="nextpvr-7390" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7390" tvg-chno="399", KJRH 2 News Oklahoma
+http://192.168.12.237:8866/live?channel=399
+
+#EXTINF:0 tvg-id="nextpvr-7645" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7645" tvg-chno="400", WOI ABC Local 5 Des Moines IA
+http://192.168.12.237:8866/live?channel=400
+
+#EXTINF:0 tvg-id="nextpvr-7564" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7564" tvg-chno="401", Very Iowa by KCCI
+http://192.168.12.237:8866/live?channel=401
+
+#EXTINF:0 tvg-id="nextpvr-7637" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7637" tvg-chno="402", WLUK FOX11 News Green Bay WI
+http://192.168.12.237:8866/live?channel=402
+
+#EXTINF:0 tvg-id="nextpvr-7609" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7609" tvg-chno="403", WGBA NBC26 News Green Bay
+http://192.168.12.237:8866/live?channel=403
+
+#EXTINF:0 tvg-id="nextpvr-7395" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7395" tvg-chno="404", KMTV 3 News Now Omaha
+http://192.168.12.237:8866/live?channel=404
+
+#EXTINF:0 tvg-id="nextpvr-7574" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7574" tvg-chno="405", Very Omaha by KETV
+http://192.168.12.237:8866/live?channel=405
+
+#EXTINF:0 tvg-id="nextpvr-7583" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7583" tvg-chno="406", WAAY (ABC) News 31 Huntsville AL
+http://192.168.12.237:8866/live?channel=406
+
+#EXTINF:0 tvg-id="nextpvr-7688" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7688" tvg-chno="407", WZDX FOX54 Huntsville AL
+http://192.168.12.237:8866/live?channel=407
+
+#EXTINF:0 tvg-id="nextpvr-7619" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7619" tvg-chno="408", WISC Madison WI
+http://192.168.12.237:8866/live?channel=408
+
+#EXTINF:0 tvg-id="nextpvr-7630" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7630" tvg-chno="409", WKOW Madison WI
+http://192.168.12.237:8866/live?channel=409
+
+#EXTINF:0 tvg-id="nextpvr-7362" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7362" tvg-chno="410", KCEN Waco TX
+http://192.168.12.237:8866/live?channel=410
+
+#EXTINF:0 tvg-id="nextpvr-7444" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7444" tvg-chno="411", KXXV 25 News Waco
+http://192.168.12.237:8866/live?channel=411
+
+#EXTINF:0 tvg-id="nextpvr-7652" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7652" tvg-chno="412", WPSD (NBC) News 6 Paducah KY
+http://192.168.12.237:8866/live?channel=412
+
+#EXTINF:0 tvg-id="nextpvr-7661" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7661" tvg-chno="413", WSIL Paducah KY
+http://192.168.12.237:8866/live?channel=413
+
+#EXTINF:0 tvg-id="nextpvr-7585" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7585" tvg-chno="414", WAND Decatur IL
+http://192.168.12.237:8866/live?channel=414
+
+#EXTINF:0 tvg-id="nextpvr-7440" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7440" tvg-chno="415", KWWL Waterloo IA
+http://192.168.12.237:8866/live?channel=415
+
+#EXTINF:0 tvg-id="nextpvr-7375" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7375" tvg-chno="416", KFSM CBS 5NEWS Fort Smith AR
+http://192.168.12.237:8866/live?channel=416
+
+#EXTINF:0 tvg-id="nextpvr-7555" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7555" tvg-chno="417", Very Arkansas by 40/29
+http://192.168.12.237:8866/live?channel=417
+
+#EXTINF:0 tvg-id="nextpvr-7565" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7565" tvg-chno="418", Very Jackson by 16 WAPT
+http://192.168.12.237:8866/live?channel=418
+
+#EXTINF:0 tvg-id="nextpvr-7655" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7655" tvg-chno="419", WQAD ABC 8 Quad Cities
+http://192.168.12.237:8866/live?channel=419
+
+#EXTINF:0 tvg-id="nextpvr-7445" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7445" tvg-chno="420", KYTX CBS 19 Tyler TX
+http://192.168.12.237:8866/live?channel=420
+
+#EXTINF:0 tvg-id="nextpvr-7600" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7600" tvg-chno="421", WEVV (CBS) News 44 Evansville IN
+http://192.168.12.237:8866/live?channel=421
+
+#EXTINF:0 tvg-id="nextpvr-7356" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7356" tvg-chno="422", KADN (FOX) News 15 Lafayette LA
+http://192.168.12.237:8866/live?channel=422
+
+#EXTINF:0 tvg-id="nextpvr-7358" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7358" tvg-chno="423", KATC TV3 News Acadiana
+http://192.168.12.237:8866/live?channel=423
+
+#EXTINF:0 tvg-id="nextpvr-7656" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7656" tvg-chno="424", WQOW Eau Claire WI
+http://192.168.12.237:8866/live?channel=424
+
+#EXTINF:0 tvg-id="nextpvr-7686" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7686" tvg-chno="425", WXOW La Crosse WI
+http://192.168.12.237:8866/live?channel=425
+
+#EXTINF:0 tvg-id="nextpvr-7627" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7627" tvg-chno="426", WKBT (CBS) News 8 La Crosse WI
+http://192.168.12.237:8866/live?channel=426
+
+#EXTINF:0 tvg-id="nextpvr-7384" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7384" tvg-chno="427", KIII 3 News Corpus Christi TX
+http://192.168.12.237:8866/live?channel=427
+
+#EXTINF:0 tvg-id="nextpvr-7410" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7410" tvg-chno="428", KRIS6 News Corpus Christi
+http://192.168.12.237:8866/live?channel=428
+
+#EXTINF:0 tvg-id="nextpvr-7586" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7586" tvg-chno="429", WAOW Wausau WI
+http://192.168.12.237:8866/live?channel=429
+
+#EXTINF:0 tvg-id="nextpvr-7674" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7674" tvg-chno="430", WTVA (NBC) News 9 Tupelo MS
+http://192.168.12.237:8866/live?channel=430
+
+#EXTINF:0 tvg-id="nextpvr-7392" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7392" tvg-chno="431", KMIZ ABC 17 News Columbia MO
+http://192.168.12.237:8866/live?channel=431
+
+#EXTINF:0 tvg-id="nextpvr-7658" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7658" tvg-chno="432", WREX Rockford IL
+http://192.168.12.237:8866/live?channel=432
+
+#EXTINF:0 tvg-id="nextpvr-7595" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7595" tvg-chno="433", WDIO ABC Duluth MN
+http://192.168.12.237:8866/live?channel=433
+
+#EXTINF:0 tvg-id="nextpvr-7244" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7244" tvg-chno="434", 12 News Beaumont TX
+http://192.168.12.237:8866/live?channel=434
+
+#EXTINF:0 tvg-id="nextpvr-7438" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7438" tvg-chno="435", KWES NewsWest9 Midland-Odessa TX
+http://192.168.12.237:8866/live?channel=435
+
+#EXTINF:0 tvg-id="nextpvr-7400" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7400" tvg-chno="436", KOAM (FOX) NEWS NOW Joplin MO
+http://192.168.12.237:8866/live?channel=436
+
+#EXTINF:0 tvg-id="nextpvr-7355" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7355" tvg-chno="437", KAAL  6 News (ABC) Rochester MN
+http://192.168.12.237:8866/live?channel=437
+
+#EXTINF:0 tvg-id="nextpvr-7385" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7385" tvg-chno="438", KIMT (CBS) News 3 Rochester MN
+http://192.168.12.237:8866/live?channel=438
+
+#EXTINF:0 tvg-id="nextpvr-7382" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7382" tvg-chno="439", KIDY FOX West Texas Abilene-San Angelo TX
+http://192.168.12.237:8866/live?channel=439
+
+#EXTINF:0 tvg-id="nextpvr-7360" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7360" tvg-chno="440", KAVU Crossroads Today Victoria TX
+http://192.168.12.237:8866/live?channel=440
+
+#EXTINF:0 tvg-id="nextpvr-7413" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7413" tvg-chno="441", KSAZ FOX 10 Phoenix AZ
+http://192.168.12.237:8866/live?channel=441
+
+#EXTINF:0 tvg-id="nextpvr-7407" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7407" tvg-chno="442", KPNX NBC 12News Phoenix AZ
+http://192.168.12.237:8866/live?channel=442
+
+#EXTINF:0 tvg-id="nextpvr-7398" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7398" tvg-chno="443", KNXV ABC15 News Arizona
+http://192.168.12.237:8866/live?channel=443
+
+#EXTINF:0 tvg-id="nextpvr-7276" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7276" tvg-chno="444", CBS News Colorado
+http://192.168.12.237:8866/live?channel=444
+
+#EXTINF:0 tvg-id="nextpvr-7433" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7433" tvg-chno="445", KUSA NBC 9News Denver CO
+http://192.168.12.237:8866/live?channel=445
+
+#EXTINF:0 tvg-id="nextpvr-7391" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7391" tvg-chno="446", KMGH Denver 7 News
+http://192.168.12.237:8866/live?channel=446
+
+#EXTINF:0 tvg-id="nextpvr-7417" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7417" tvg-chno="447", KSL NBC TV 5 Salt Lake City UT
+http://192.168.12.237:8866/live?channel=447
+
+#EXTINF:0 tvg-id="nextpvr-7434" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7434" tvg-chno="448", KUTV CBS 2 News Salt Lake City UT
+http://192.168.12.237:8866/live?channel=448
+
+#EXTINF:0 tvg-id="nextpvr-7420" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7420" tvg-chno="449", KSTU FOX13 News Salt Lake
+http://192.168.12.237:8866/live?channel=449
+
+#EXTINF:0 tvg-id="nextpvr-7401" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7401" tvg-chno="450", KOB 4 Albuquerque NM
+http://192.168.12.237:8866/live?channel=450
+
+#EXTINF:0 tvg-id="nextpvr-7571" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7571" tvg-chno="451", Very New Mexico by KOAT
+http://192.168.12.237:8866/live?channel=451
+
+#EXTINF:0 tvg-id="nextpvr-7436" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7436" tvg-chno="452", KVOA Tucson AZ
+http://192.168.12.237:8866/live?channel=452
+
+#EXTINF:0 tvg-id="nextpvr-7377" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7377" tvg-chno="453", KGUN 9 News Tucson
+http://192.168.12.237:8866/live?channel=453
+
+#EXTINF:0 tvg-id="nextpvr-7408" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7408" tvg-chno="454", KRDO ABC 13 News Colorado Springs CO
+http://192.168.12.237:8866/live?channel=454
+
+#EXTINF:0 tvg-id="nextpvr-7399" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7399" tvg-chno="455", KOAA News 5 Colorado
+http://192.168.12.237:8866/live?channel=455
+
+#EXTINF:0 tvg-id="nextpvr-7435" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7435" tvg-chno="456", KVIA ABC-7 News El Paso TX
+http://192.168.12.237:8866/live?channel=456
+
+#EXTINF:0 tvg-id="nextpvr-7364" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7364" tvg-chno="457", KDBC CBS 4 News El Paso TX
+http://192.168.12.237:8866/live?channel=457
+
+#EXTINF:0 tvg-id="nextpvr-7426" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7426" tvg-chno="458", KTVB 7 Idaho's News Channel Bosie ID
+http://192.168.12.237:8866/live?channel=458
+
+#EXTINF:0 tvg-id="nextpvr-7389" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7389" tvg-chno="459", KIVI Idaho News 6 Boise
+http://192.168.12.237:8866/live?channel=459
+
+#EXTINF:0 tvg-id="nextpvr-7383" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7383" tvg-chno="460", KIFI ABC Local News 8 Idaho Falls ID
+http://192.168.12.237:8866/live?channel=460
+
+#EXTINF:0 tvg-id="nextpvr-7423" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7423" tvg-chno="461", KTMF (ABC) News 23 Missoula MT
+http://192.168.12.237:8866/live?channel=461
+
+#EXTINF:0 tvg-id="nextpvr-7406" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7406" tvg-chno="462", KPAX News Missoula
+http://192.168.12.237:8866/live?channel=462
+
+#EXTINF:0 tvg-id="nextpvr-7431" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7431" tvg-chno="463", KULR (NBC) News 8 Billings MT
+http://192.168.12.237:8866/live?channel=463
+
+#EXTINF:0 tvg-id="nextpvr-7428" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7428" tvg-chno="464", KTVQ Q2 News Billings
+http://192.168.12.237:8866/live?channel=464
+
+#EXTINF:0 tvg-id="nextpvr-7441" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7441" tvg-chno="465", KWYB (ABC) News 18 Butte MT
+http://192.168.12.237:8866/live?channel=465
+
+#EXTINF:0 tvg-id="nextpvr-7361" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7361" tvg-chno="466", KBZK News Bozeman
+http://192.168.12.237:8866/live?channel=466
+
+#EXTINF:0 tvg-id="nextpvr-7373" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7373" tvg-chno="467", KFBB (ABC) News 5 Great Falls/Helena MT
+http://192.168.12.237:8866/live?channel=467
+
+#EXTINF:0 tvg-id="nextpvr-7412" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7412" tvg-chno="468", KRTV News Great Falls
+http://192.168.12.237:8866/live?channel=468
+
+#EXTINF:0 tvg-id="nextpvr-7427" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7427" tvg-chno="469", KTVH News Helena
+http://192.168.12.237:8866/live?channel=469
+
+#EXTINF:0 tvg-id="nextpvr-7470" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7470" tvg-chno="470", NBC 4 Los Angeles News
+http://192.168.12.237:8866/live?channel=470
+
+#EXTINF:0 tvg-id="nextpvr-7278" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7278" tvg-chno="471", CBS News Los Angeles
+http://192.168.12.237:8866/live?channel=471
+
+#EXTINF:0 tvg-id="nextpvr-7425" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7425" tvg-chno="472", KTTV FOX 11 Los Angeles CA
+http://192.168.12.237:8866/live?channel=472
+
+#EXTINF:0 tvg-id="nextpvr-7477" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7477" tvg-chno="473", NBC Bay Area News
+http://192.168.12.237:8866/live?channel=473
+
+#EXTINF:0 tvg-id="nextpvr-7273" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7273" tvg-chno="474", CBS News Bay Area
+http://192.168.12.237:8866/live?channel=474
+
+#EXTINF:0 tvg-id="nextpvr-7429" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7429" tvg-chno="475", KTVU FOX 2 San Francisco CA
+http://192.168.12.237:8866/live?channel=475
+
+#EXTINF:0 tvg-id="nextpvr-7387" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7387" tvg-chno="476", KIRO (CBS) News 7 Seattle WA
+http://192.168.12.237:8866/live?channel=476
+
+#EXTINF:0 tvg-id="nextpvr-7363" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7363" tvg-chno="477", KCPQ FOX 13 Seattle WA
+http://192.168.12.237:8866/live?channel=477
+
+#EXTINF:0 tvg-id="nextpvr-7404" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7404" tvg-chno="478", KOMO 4 News Seattle WA
+http://192.168.12.237:8866/live?channel=478
+
+#EXTINF:0 tvg-id="nextpvr-7386" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7386" tvg-chno="479", KING-TV NBC 5 News Seattle WA
+http://192.168.12.237:8866/live?channel=479
+
+#EXTINF:0 tvg-id="nextpvr-7284" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7284" tvg-chno="480", CBS News Sacramento
+http://192.168.12.237:8866/live?channel=480
+
+#EXTINF:0 tvg-id="nextpvr-7443" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7443" tvg-chno="481", KXTV ABC10 News Sacramento CA
+http://192.168.12.237:8866/live?channel=481
+
+#EXTINF:0 tvg-id="nextpvr-7578" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7578" tvg-chno="482", Very Sacramento by KCRA-TV
+http://192.168.12.237:8866/live?channel=482
+
+#EXTINF:0 tvg-id="nextpvr-7359" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7359" tvg-chno="483", KATU ABC 2 News Portland OR
+http://192.168.12.237:8866/live?channel=483
+
+#EXTINF:0 tvg-id="nextpvr-7378" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7378" tvg-chno="484", KGW NBC News 8 Portland OR
+http://192.168.12.237:8866/live?channel=484
+
+#EXTINF:0 tvg-id="nextpvr-7476" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7476" tvg-chno="485", NBC 7 San Diego News
+http://192.168.12.237:8866/live?channel=485
+
+#EXTINF:0 tvg-id="nextpvr-7374" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7374" tvg-chno="486", KFMB CBS 8 News San Diego CA
+http://192.168.12.237:8866/live?channel=486
+
+#EXTINF:0 tvg-id="nextpvr-7376" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7376" tvg-chno="487", KGTV ABC10 News San Diego
+http://192.168.12.237:8866/live?channel=487
+
+#EXTINF:0 tvg-id="nextpvr-7418" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7418" tvg-chno="488", KSNV NBC 3 News Las Vegas NV
+http://192.168.12.237:8866/live?channel=488
+
+#EXTINF:0 tvg-id="nextpvr-7424" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7424" tvg-chno="489", KTNV 13 Action News Las Vegas
+http://192.168.12.237:8866/live?channel=489
+
+#EXTINF:0 tvg-id="nextpvr-7393" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7393" tvg-chno="490", KMPH FOX 26 News Fresno CA
+http://192.168.12.237:8866/live?channel=490
+
+#EXTINF:0 tvg-id="nextpvr-7380" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7380" tvg-chno="491", KHQ (NBC) News 6 Spokane WA
+http://192.168.12.237:8866/live?channel=491
+
+#EXTINF:0 tvg-id="nextpvr-7442" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7442" tvg-chno="492", KXLY Spokane Washington
+http://192.168.12.237:8866/live?channel=492
+
+#EXTINF:0 tvg-id="nextpvr-7409" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7409" tvg-chno="493", KREM CBS 2 News Spokane WA
+http://192.168.12.237:8866/live?channel=493
+
+#EXTINF:0 tvg-id="nextpvr-7388" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7388" tvg-chno="494", KITV (ABC) News 4 Honolulu HI
+http://192.168.12.237:8866/live?channel=494
+
+#EXTINF:0 tvg-id="nextpvr-7397" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7397" tvg-chno="495", KNDU (NBC) News 25 Richland WA
+http://192.168.12.237:8866/live?channel=495
+
+#EXTINF:0 tvg-id="nextpvr-7396" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7396" tvg-chno="496", KNDO (NBC) News 23 Yakima WA
+http://192.168.12.237:8866/live?channel=496
+
+#EXTINF:0 tvg-id="nextpvr-7257" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7257" tvg-chno="497", Apple Valley News Now
+http://192.168.12.237:8866/live?channel=497
+
+#EXTINF:0 tvg-id="nextpvr-7371" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7371" tvg-chno="498", KEYT ABC News Channel 3 Santa Barbara CA
+http://192.168.12.237:8866/live?channel=498
+
+#EXTINF:0 tvg-id="nextpvr-7368" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7368" tvg-chno="499", KERO 23 News Bakersfield
+http://192.168.12.237:8866/live?channel=499
+
+#EXTINF:0 tvg-id="nextpvr-7414" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7414" tvg-chno="500", KSBY News California
+http://192.168.12.237:8866/live?channel=500
+
+#EXTINF:0 tvg-id="nextpvr-7560" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7560" tvg-chno="501", Very Central Coast by KSBW
+http://192.168.12.237:8866/live?channel=501
+
+#EXTINF:0 tvg-id="nextpvr-7381" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7381" tvg-chno="502", KHSL (CBS) News 12 Redding CA
+http://192.168.12.237:8866/live?channel=502
+
+#EXTINF:0 tvg-id="nextpvr-7369" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7369" tvg-chno="503", KESQ ABC News Channel 3 Palm Springs CA
+http://192.168.12.237:8866/live?channel=503
+
+#EXTINF:0 tvg-id="nextpvr-7372" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7372" tvg-chno="504", KEZI (ABC) News 9 Eugene OR
+http://192.168.12.237:8866/live?channel=504
+
+#EXTINF:0 tvg-id="nextpvr-7366" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7366" tvg-chno="505", KDRV (ABC) News 12 Medford OR
+http://192.168.12.237:8866/live?channel=505
+
+#EXTINF:0 tvg-id="nextpvr-7430" tvg-logo="http://192.168.12.237:8866/service?method=channel.icon&channel_id=7430" tvg-chno="506", KTVZ News Bend OR
+http://192.168.12.237:8866/live?channel=506
+
